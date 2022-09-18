@@ -1,0 +1,15 @@
+integration test 20222308
+
+책이름 : 코드로 배우는 스프링 웹 프로젝트
+
+1. 자바버전 : jdk1.8.0_261
+2. eclipse 버전 : eclipse-jee-2019-12-R-win32-x86_64
+3. spring tools 3 플러그인 추가 : Eclipse내 Help/MarketPlace
+4. Tomcat 9 서버 설정 : c/apache-tomcat-9.0.8
+5. 스프링 프로젝트 생성 : File/New/Spring Legacy Project
+
+
+Java Configuration을 하는 경우
+1. XML과 별개로 Java를 이용하는 설정이 증가
+2. web.xml,servlet-context.xml,root-context.xml,pom.xml 삭제
+3. java 설정 관련 패키지 생성
